@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a252edc-e9e1-4b78-b728-7907c50f3c3d": {
+      "ProjectGuid": "6a252edc-e9e1-4b78-b728-7907c50f3c3d",
+      "DisplayName": "RenderProject",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
